@@ -1,5 +1,6 @@
-# My Application
-www.solutionstreet.com - Arthur Frankel
+# Loopback Walkthrough
+
+www.solutionstreet.com
 
 [INSERT BLOG ARTICLE LINK HERE]
 
