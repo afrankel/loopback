@@ -2,7 +2,8 @@
 
 www.solutionstreet.com
 
-[INSERT BLOG ARTICLE LINK HERE]
+Youtube Video: https://www.youtube.com/watch?v=kthQssL_vFk
+Blog Article:  http://www.solutionstreet.com/blog/javascript-server-apis-with-node-and-loopback-video
 
 Github: https://github.com/afrankel/loopback
 Docs: http://loopback.io/doc/
